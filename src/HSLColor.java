@@ -1,6 +1,6 @@
 import java.awt.Color;
 
-//
+//https://gist.github.com/Yona-Appletree/0c4b58763f070ae8cdff7db583c82563#file-hslcolor-java
 // Sourced from http://www.camick.com/java/source/HSLColor.java
 //
 
