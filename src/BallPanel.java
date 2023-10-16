@@ -1,5 +1,4 @@
 import javax.swing.*;
-import javax.xml.datatype.Duration;
 import java.awt.*;
 
 public class BallPanel extends JPanel implements Runnable {

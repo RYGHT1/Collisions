@@ -24,12 +24,6 @@ public class Particle {
         this.velX = (this.size - MIN_SIZE - (MAX_SIZE - MIN_SIZE) / 2) % 0.42f;
         this.velY = ((((this.size + MAX_SIZE - MIN_SIZE) / 2) % MAX_SIZE - MIN_SIZE) - MIN_SIZE - (MAX_SIZE - MIN_SIZE) / 2) % 0.42f;
     }
-
-
-    private void newXY() {
-
-    }
-
     private void setColor() {
         setSize();
 

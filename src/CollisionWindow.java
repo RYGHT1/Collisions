@@ -1,5 +1,4 @@
 import javax.swing.*;
-import java.awt.*;
 
 public class CollisionWindow extends JFrame {
     public static final int SIZE = 1000;
